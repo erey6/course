@@ -1,0 +1,22 @@
+/** HEADER STUFF **/
+#header-nav {
+	background-color: #6bd2db;
+	height: 120px;
+	position: relative;
+}
+
+#food-item-chicken{
+	background-color: #ffbe4f;
+	width: 93%;
+	margin: 12px auto;
+}
+#food-item-beef{
+	background-color: #ffbe4f;
+	width: 93%;
+	margin: 18px auto;
+}
+#food-item-sushi{
+	background-color: #ffbe4f;
+	width: 93%;
+	margin: 18px auto;
+}
