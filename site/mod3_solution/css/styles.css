@@ -5,20 +5,11 @@
 	position: relative;
 }
 
-#food-item-chicken{
+#food-item-chicken, #food-item-beef, #food-item-sushi{
 	background-color: #ffbe4f;
 	width: 100%;
+	padding: 21px;
 	margin: 12px auto;
-}
-#food-item-beef{
-	background-color: #ffbe4f;
-	width: 100%;
-	margin: 18px auto;
-}
-#food-item-sushi{
-	background-color: #ffbe4f;
-	width: 100%;
-	margin: 18px auto;
 }
 
 #nav-list{
