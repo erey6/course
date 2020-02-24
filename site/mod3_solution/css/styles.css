@@ -20,3 +20,16 @@
 	width: 93%;
 	margin: 18px auto;
 }
+
+#nav-list{
+	background-color: #ffff00;
+}
+
+#nav-list li {
+	border-bottom: 1px solid black;
+}
+
+@media (max-width: 767px) {
+  .navbar {
+    margin-bottom: 0;
+  }
